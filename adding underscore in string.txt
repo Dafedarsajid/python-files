@@ -1,0 +1,4 @@
+a='HELLO MY NAME IS SAJID'
+a[5]='-'
+a[8]='-'
+print(a)

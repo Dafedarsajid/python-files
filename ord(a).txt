@@ -1,0 +1,7 @@
+a="My self sajid"
+i=0
+out=" "
+temp=True
+while i<len(a):
+
+  
